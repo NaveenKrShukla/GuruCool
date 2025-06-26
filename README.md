@@ -24,4 +24,8 @@
 - 📦 npm (for dependency management)
 - 📁 Modular folder-based structure
 
+---
+🔗 **Live Site:** [Visit GuruCool Website](https://guru-cool-p7hl.vercel.app/)
+
+
 
