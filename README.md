@@ -24,28 +24,4 @@
 - 📦 npm (for dependency management)
 - 📁 Modular folder-based structure
 
----
-
-## 🗂️ Folder Structure
-
-GuruCool/
-├── public/
-├── src/
-│ ├── Assets/ # Images, videos, icons
-│ ├── Components/
-│ │ ├── Navbar/
-│ │ ├── Hero/
-│ │ ├── Programs/
-│ │ ├── About/
-│ │ ├── Campus/
-│ │ ├── Testimonials/
-│ │ ├── Contact/
-│ │ ├── Footer/
-│ │ └── VideoPlayer/
-│ ├── App.jsx
-│ ├── index.js
-│ └── index.css
-├── package.json
-└── README.md
-
 
