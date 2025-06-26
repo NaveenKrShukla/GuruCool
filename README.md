@@ -26,6 +26,7 @@
 
 ---
 🔗 **Live Site:** [Visit GuruCool Website](https://guru-cool-p7hl.vercel.app/)
+🔗 **Live Site:** [Visit GuruCool Website](https://mygurucool.netlify.app/)
 
 
 
