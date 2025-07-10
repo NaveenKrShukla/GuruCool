@@ -28,5 +28,21 @@
 🔗 **Live Site:** [Visit GuruCool Website](https://guru-cool-p7hl.vercel.app/)
 🔗 **Live Site:** [Visit GuruCool Website](https://mygurucool.netlify.app/)
 
+---
+Screenshots:
 
 
+<img width="3166" height="1698" alt="Screenshot 2025-07-11 000123" src="https://github.com/user-attachments/assets/f6dc926e-e74b-4ceb-83a0-fd15359a3fcb" />
+
+
+<img width="3148" height="1640" alt="Screenshot 2025-07-11 000155" src="https://github.com/user-attachments/assets/f2e4c191-5dc9-4041-840d-b18c575eaaed" />
+
+
+<img width="3168" height="1674" alt="Screenshot 2025-07-11 000225" src="https://github.com/user-attachments/assets/dca7e56f-9c35-4a5e-a9e1-f0a6bd21b83f" />
+
+
+
+<img width="3163" height="1696" alt="Screenshot 2025-07-11 000243" src="https://github.com/user-attachments/assets/8a5e4844-4481-41e1-b091-1ce722b60f78" />
+
+
+<img width="3171" height="1706" alt="Screenshot 2025-07-11 000258" src="https://github.com/user-attachments/assets/3d8b88a9-50a7-49a4-86dc-e29851ce20a9" />
